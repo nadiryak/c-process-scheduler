@@ -25,4 +25,7 @@ void free_all_processes(Process* tete);
 
 Process* extraire_meilleure_priorite(Process **head);
 
+Process* inserer(Process *tete, Process*nv);
+Process* extraire_premiere_elt(Process **tete );
+
 #endif
