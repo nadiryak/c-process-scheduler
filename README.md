@@ -1,4 +1,5 @@
 # 🖥️ C-Process-Scheduler
+#NOTE: This readme is not complete and that for som stuff i'm working in it, so i've studies, when i find time i code so the readme it's not complet but it still usefull
 
 This project is a simple simulation of an Operating System's process scheduler. 
 
