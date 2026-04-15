@@ -8,7 +8,7 @@ This project is a simulation of an Operating System's process scheduler, written
 
 ## 📌 Context
 
-I built this to **practice C and low-level concepts** — pointers, dynamic memory, doubly linked lists. The kind of stuff that looks simple on paper but gets real when you actually implement it.
+I built this to **practice C and low-level concepts** — pointers, dynamic memory, doubly linked lists. The kind of stuff that looks simple but gets real when you actually implement it.
 
 ---
 
