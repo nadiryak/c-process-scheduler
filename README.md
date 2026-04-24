@@ -46,7 +46,6 @@ file = inserer(file, create_process(2, 25, 100)); // this will end up first
 file = inserer(file, create_process(3,  5, 80));  // this will end up last
 ```
 
-Cost: O(n) at insertion, O(1) at extraction.
 
 ---
 
