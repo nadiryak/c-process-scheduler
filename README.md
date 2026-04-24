@@ -69,9 +69,6 @@ if (max->suivant != NULL)
 max->precedent = NULL;
 max->suivant = NULL; // isolated — safe to return
 ```
-
-Cost: O(1) at insertion, O(n) at extraction.
-
 ---
 
 ## 🚀 How to Compile and Run
